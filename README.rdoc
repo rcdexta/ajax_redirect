@@ -1,0 +1,6 @@
+## Sample Rails application to illustrate handling ajax redirection in Rails
+
+* Just install the gems
+* Fire `rails s`
+
+Check out `welcome_controller` and you will know
